@@ -77,9 +77,9 @@ export const featuredProjects: Project[] = [
     description:
       'A real-time monitoring interface for devices and server infrastructure built with React and REST APIs.',
     features: [
-      'real-time updates',
-      'device status monitoring',
-      'performance dashboards',
+      'Real-time updates',
+      'Device status monitoring',
+      'Performance dashboards',
       'API error handling'
     ],
     techStack: ['React', 'TypeScript', 'TailwindCSS'],
@@ -88,14 +88,14 @@ export const featuredProjects: Project[] = [
   {
     title: 'AI Code Evaluation Experiments',
     description: 'Experiments analyzing and comparing AI-generated code solutions.',
-    features: ['response ranking', 'bug detection', 'reasoning analysis'],
+    features: ['Response ranking', 'Bug detection', 'Reasoning analysis'],
     techStack: ['TypeScript', 'Python', 'Jupyter', 'Evaluation Rubrics'],
     githubUrl: 'https://github.com/Cybertronian123/ai-code-evaluation-experiments'
   },
   {
     title: 'Prompt Engineering Experiments',
     description: 'Collection of prompts designed to test reasoning capabilities of LLMs.',
-    features: ['algorithm prompts', 'debugging prompts', 'edge-case analysis'],
+    features: ['Algorithm prompts', 'Debugging prompts', 'Edge-case analysis'],
     techStack: ['Prompt Design', 'JavaScript', 'Markdown'],
     githubUrl: 'https://github.com/Cybertronian123/prompt-engineering-experiments'
   }
@@ -105,8 +105,8 @@ export const featuredProjects: Project[] = [
 export const experience: ExperienceItem[] = [
   {
     role: 'Frontend Developer',
-    company: 'Example Tech Company',
-    years: '2024 - Present',
+    company: 'Fortuna Impex Pvt Ltd',
+    years: '2025 - Present',
     responsibilities: [
       'Built React dashboards for monitoring systems',
       'Debugged frontend and API integration issues',
