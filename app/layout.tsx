@@ -5,7 +5,7 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://example.com';
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
-  title: 'AI Model Evaluation Portfolio | Atrayan Mukherjee',
+  title: 'Atrayan Mukherjee | Portfolio',
   description:
     'Software developer specializing in AI model evaluation, prompt engineering, and LLM benchmarking.',
   openGraph: {
